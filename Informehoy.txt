@@ -3,3 +3,7 @@ Taller de GIT, realizar paso a paso de lo visto anteriormente.
 
 QUE ES UN SISTEMA DE CONTROL DE VERSIONES:
 seguimientos de los cambios realizados en el código a lo largo del tiempo.
+
+Ramas como ignorar archivos para no ser comprometidos en el trabajo.
+
+Correccion guardar en la master
