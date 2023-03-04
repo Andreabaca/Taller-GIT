@@ -1,0 +1,4 @@
+Lo visto en clase anterior fue:
+1.Ignorar archivo
+2.Ramas; branch y merge
+3.Deshacer cambios
